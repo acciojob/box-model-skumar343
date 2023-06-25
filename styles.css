@@ -1,1 +1,14 @@
-/*  your css code here. If applicable */
+.container
+{
+	width:400px;
+	height:150px;
+	background-color:#D3D3D3;
+	border-radius:25px;
+	
+}
+.red
+{
+	background-color:red;
+	radius:50%
+	
+}/*  your css code here. If applicable */
